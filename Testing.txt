@@ -1,0 +1,64 @@
+Jithendra Yella
+MS in CS, Univ of Florida
+
+perl difftest.pl -1 "rpal -ast -noout FILE" -2 "p1 -ast FILE" -t ~/rpal/tests/
+
+
+perl difftest.pl -1 "./rpal -ast -noout FILE" -2 "./p1 -ast FILE" -t ~/rpal/tests/
+
+
+Testing wsum2...OK!
+Testing fn3...OK!
+Testing t1...OK!
+Testing simple.div...OK!
+Testing ftst...OK!
+Testing recurs.1...OK!
+Testing trees...OK!
+Testing send...OK!
+Testing vectorsum...OK!
+Testing div...OK!
+Testing pf...OK!
+Testing stem1...OK!
+Testing infix2...OK!
+Testing towers...OK!
+Testing string1...OK!
+Testing if1...OK!
+Testing envlist...OK!
+Testing sum...OK!
+Testing t2...OK!
+Testing test1...OK!
+Testing wsum1...OK!
+Testing prog...OK!
+Testing Innerprod...OK!
+Testing conc1...OK!
+Testing t19...OK!
+Testing stem2...OK!
+Testing pairs3...OK!
+Testing if2...OK!
+Testing defns.3...OK!
+Testing reverse...OK!
+Testing tuples...OK!
+Testing pairs1...OK!
+Testing defns.1...OK!
+Testing tiny...OK!
+Testing infix...OK!
+Testing Innerprod2...OK!
+Testing conc.1...OK!
+Testing t16...OK!
+Testing conc3...OK!
+Testing picture...OK!
+Testing fn2...OK!
+Testing print1...OK!
+Testing t3.1...OK!
+Testing pairs2...OK!
+Testing defns.2...OK!
+Testing t18...OK!
+Testing clean...OK!
+Testing add...OK!
+Testing tiny.1...OK!
+Testing t3...OK!
+Testing Treepicture...OK!
+Testing t9...OK!
+Testing print2...OK!
+Testing fn1...OK!
+All tests succeeded.
